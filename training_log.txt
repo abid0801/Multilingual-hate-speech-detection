@@ -1,0 +1,100 @@
+2025-02-01 03:18:45,376 - INFO - Starting training script...
+2025-02-01 03:18:45,376 - INFO - Using model: bert-base-multilingual-cased
+2025-02-01 03:21:24,593 - INFO - Starting training script...
+2025-02-01 03:21:24,593 - INFO - Using model: bert-base-multilingual-cased
+2025-02-01 03:22:54,556 - INFO - Tokenization completed.
+2025-02-01 03:30:48,141 - INFO - Starting training script...
+2025-02-01 03:30:48,141 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 03:32:35,654 - INFO - Starting training script...
+2025-02-01 03:32:35,654 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 03:32:41,401 - INFO - Dataset columns: Index(['clean_text', 'label', 'language', 'text'], dtype='object')
+2025-02-01 03:32:41,569 - INFO - Train Data Distribution: language  label
+en        0        4688
+          1        4726
+es        0         293
+          1         293
+dtype: int64
+2025-02-01 03:32:44,113 - INFO - Tokenization completed.
+2025-02-01 11:53:32,036 - INFO - Starting training script...
+2025-02-01 11:53:32,036 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 11:53:38,311 - INFO - Train Dataset columns: Index(['clean_text', 'label', 'language', 'text'], dtype='object')
+2025-02-01 11:53:38,311 - INFO - Test Dataset columns: Index(['clean_text', 'label', 'text'], dtype='object')
+2025-02-01 11:56:10,996 - INFO - Starting training script...
+2025-02-01 11:56:10,996 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 11:57:42,439 - INFO - Starting training script...
+2025-02-01 11:57:42,439 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 11:57:53,359 - INFO - Train Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 11:57:53,361 - INFO - Test Dataset columns: Index(['text', 'label'], dtype='object')
+2025-02-01 12:03:59,055 - INFO - Starting training script...
+2025-02-01 12:03:59,055 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 12:04:06,060 - INFO - Train Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:04:06,060 - INFO - Test Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:04:06,267 - INFO - Train Data Distribution: language  label
+en        0        4688
+          1        4726
+es        0         293
+          1         293
+dtype: int64
+2025-02-01 12:04:06,268 - INFO - Test Data Distribution: language  label
+en        0        938
+          1        945
+es        0         59
+          1         59
+dtype: int64
+2025-02-01 12:04:07,731 - INFO - Tokenization completed.
+2025-02-01 12:05:32,736 - INFO - Starting training script...
+2025-02-01 12:05:32,736 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 12:05:38,704 - INFO - Train Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:05:38,704 - INFO - Test Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:05:38,900 - INFO - Train Data Distribution: language  label
+en        0        4688
+          1        4726
+es        0         293
+          1         293
+dtype: int64
+2025-02-01 12:05:38,901 - INFO - Test Data Distribution: language  label
+en        0        938
+          1        945
+es        0         59
+          1         59
+dtype: int64
+2025-02-01 12:05:40,232 - INFO - Tokenization completed.
+2025-02-01 12:43:11,394 - INFO - Training completed.
+2025-02-01 12:43:12,742 - INFO - Model saved successfully.
+2025-02-01 12:48:02,744 - INFO - Starting training script...
+2025-02-01 12:48:02,744 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 12:48:13,468 - INFO - Train Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:48:13,484 - INFO - Test Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:48:13,804 - INFO - Train Data Distribution: language  label
+en        0        4688
+          1        4726
+es        0         293
+          1         293
+dtype: int64
+2025-02-01 12:48:13,804 - INFO - Test Data Distribution: language  label
+en        0        938
+          1        945
+es        0         59
+          1         59
+dtype: int64
+2025-02-01 12:48:16,257 - INFO - Tokenization completed.
+2025-02-01 12:53:49,936 - INFO - Starting training script...
+2025-02-01 12:53:49,952 - INFO - Using model: distilbert-base-multilingual-cased
+2025-02-01 12:54:01,213 - INFO - Train Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:54:01,213 - INFO - Test Dataset columns: Index(['text', 'label', 'language'], dtype='object')
+2025-02-01 12:54:01,545 - INFO - Train Data Distribution: language  label
+en        0        4688
+          1        4726
+es        0         293
+          1         293
+dtype: int64
+2025-02-01 12:54:01,545 - INFO - Test Data Distribution: language  label
+en        0        938
+          1        945
+es        0         59
+          1         59
+dtype: int64
+2025-02-01 12:54:04,076 - INFO - Tokenization completed.
+2025-02-01 13:32:02,471 - INFO - Training completed.
+2025-02-01 13:32:03,722 - INFO - Model saved successfully.
+2025-02-01 13:32:03,733 - INFO - Training details saved successfully.

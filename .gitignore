@@ -1,0 +1,9 @@
+# Ignore large datasets & model files
+*.csv
+*.safetensors
+*.pt
+*.zip
+model_&_datasets.zip
+multilingual_hate_speech_model/
+results/
+logs/

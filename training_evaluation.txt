@@ -1,0 +1,7 @@
+
+Training Dataset Evaluation:
+Loss: 0.32554277777671814
+Accuracy: 0.8693
+F1 Score: 0.8729958215916821
+Precision: 0.8520485584218513
+Recall: 0.8949990037856147

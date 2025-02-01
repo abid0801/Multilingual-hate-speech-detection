@@ -1,0 +1,7 @@
+
+Model: distilbert-base-multilingual-cased
+Training Parameters:
+   - Batch Size: 8
+   - Epochs: 1
+   - Weight Decay: 0.01
+   - Best Model Metric: f1
